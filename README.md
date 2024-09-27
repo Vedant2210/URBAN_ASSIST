@@ -1,17 +1,16 @@
-# URBAN_ASSIST
-Overview
-This project is an all-in-one platform designed to simplify daily life by offering various services, including HomeCook meal deliveries and gardening solutions. It connects users with local chefs and provides flexible subscription models for convenience.
+# URBAN ASSIST
 
-Key Features
-HomeCook Services: Connects users with local chefs for personalized, healthy meal deliveries.
-Gardening Services: Offers solutions for maintaining homes and gardens.
-Flexible Subscription Models: Provides customizable plans to suit users’ needs.
-Secure Payment Integration: Streamlines transactions with a reliable payment gateway, enhancing user experience.
+## Overview
+This project is an all-in-one platform designed to simplify everyday life by offering various services such as HomeCook meal deliveries and gardening solutions. It connects users with local chefs and provides flexible subscription models, enabling a seamless experience for maintaining their homes and routines.
 
-Tools Used
-HTML
-CSS
-JavaScript
-Express
-Node.js
-MongoDB
+## Key Features
+- **HomeCook Services**: Connects users with local chefs for personalized, healthy meal deliveries tailored to individual preferences.
+- **Gardening Services**: Offers professional gardening solutions to help users maintain and beautify their outdoor spaces.
+- **Flexible Subscription Models**: Provides customizable subscription plans, allowing users to select services that fit their needs and schedules.
+- **Secure Payment Integration**: Streamlines transactions through a secure payment gateway, enhancing user experience with seamless and reliable payment options.
+
+## Technologies Used
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Express, Node.js
+- **Database**: MongoDB
+
